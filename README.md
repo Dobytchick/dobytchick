@@ -22,7 +22,6 @@ My current stack includes **Go (Golang)** and **Lua**, with a strong focus on **
   <img src="https://img.shields.io/badge/gotest-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="got">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 ---
