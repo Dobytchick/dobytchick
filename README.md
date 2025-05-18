@@ -4,7 +4,7 @@ My current stack includes **Go (Golang)** and **Lua**, with a strong focus on **
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 💻 I specialize in backend systems, game server tooling, and modding  
 - 🛠️ Actively working with Garry's Mod servers
@@ -13,7 +13,7 @@ My current stack includes **Go (Golang)** and **Lua**, with a strong focus on **
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
