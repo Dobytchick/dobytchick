@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm Dobytchick
+I'm a self-taught backend developer
 
-I'm a self-taught backend developer who has been in the IT field since 2016.  
 My current stack includes **Go (Golang)** and **Lua**, with a strong focus on **GLua** development for Garry's Mod.
 
 ---
