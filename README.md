@@ -26,7 +26,7 @@ My current stack includes **Go (Golang)** and **Lua**, with a strong focus on **
 
 ---
 
-Stats
+## Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Dobytchick&show_icons=true&theme=tokyonight&hide_title=false" height="180">
