@@ -8,8 +8,7 @@ My current stack includes **Go (Golang)** and **Lua**, with a strong focus on **
 
 - 💻 I specialize in backend systems, game server tooling, and modding  
 - 🛠️ Actively working with Garry's Mod servers
-- ⚙️ I create addons, modules, and APIs using Go and Lua  
-- 🌍 Open-source enthusiast and problem solver
+- ⚙️ I create addons, modules, and APIs using Go and Lua  r
 
 ---
 
